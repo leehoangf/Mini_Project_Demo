@@ -1,0 +1,6 @@
+100,    Le Xuan Hoang,   D05K12,  Ha Noi
+101,    Tran Minh Quang, D05K12,  Ha Noi
+102,    Ng Viet Hoang,   D05K12,  Ha Noi
+103,    Ng Anh Minh,     D05K12,  Ha Noi
+104,    Ng Phi Long,     D05K12,  Ba Vi
+105,    Vu Truong Anh,   D05K12,  Hai Phong
